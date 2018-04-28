@@ -1,0 +1,8 @@
+.nav-pills a {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding: .5em;
+  margin-right: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}

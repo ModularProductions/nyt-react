@@ -18,6 +18,11 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.15.4",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.16",
+    "react-moment": "^0.7.0"
   }
 }

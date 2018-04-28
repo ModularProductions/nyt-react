@@ -1,5 +1,25 @@
 body {
+  background-color: rgb(183, 218, 250);
+}
+
+.wrapper {
   margin: 0;
-  padding: 0;
   font-family: sans-serif;
+}
+
+.jumbotron {
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
 }
