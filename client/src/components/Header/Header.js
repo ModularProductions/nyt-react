@@ -7,7 +7,7 @@ const subtitleStyle = {
 const Header = () => (
   <div id="header">
     <h1>New York Times Article Scrubber</h1>
-    <p style={subtitleStyle}>Search for and annotate articles of interest!</p>
+    <p style={subtitleStyle}>Search for and save articles of interest!</p>
   </div>
 );
 
